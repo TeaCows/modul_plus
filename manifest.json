@@ -1,8 +1,8 @@
 {
-    "name": "Modul+"
-    "description": "All the best of the Modul- series. I own none of the mods, this is just a collection."
-    "version_number": "1.0.0"
-    "website_url": "https://github.com/TeaCows/modul_plus"
+    "name": "Modul+",
+    "description": "All the best of the Modul- series. I own none of the mods, this is just a collection.",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/TeaCows/modul_plus",
     "dependencies": [
         "Meat_banono-Meats_ModulAR-3.1.2"
         "Meat_banono-Meats_ModulAK-3.1.2"
@@ -51,5 +51,5 @@
         "Nuigo_Ftrmarket-Krytac_LMGE-2.0.1"
         "Chargin-ModulRevolver-1.0.0"
         "Prime_Vr-Modul_Nagant-1.0.5"
-    ]
+    ],
 }
